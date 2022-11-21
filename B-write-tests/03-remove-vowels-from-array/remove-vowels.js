@@ -26,4 +26,5 @@ module.exports = removeVowels;
   let result = removeVowels('samuel');
 
   what is the value of result?
+  Answer : sml
 */
